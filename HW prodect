@@ -1,0 +1,160 @@
+{
+    "products": [
+      {
+        "product_id": "LP-001",
+        "product_name": "UltraBook Pro X",
+        "category": "laptop",
+        "price": 32500000,
+        "currency": "Toman",
+        "stock": 15,
+        "description": "High-performance laptop with 16GB RAM, 1TB SSD, and Intel i9 processor",
+        "specifications": {
+          "processor": "Intel Core i9-12900H",
+          "ram": "16GB DDR5",
+          "storage": "1TB NVMe SSD",
+          "display": "15.6-inch 4K OLED",
+          "graphics": "NVIDIA RTX 3080"
+        }
+      },
+      {
+        "product_id": "SP-002",
+        "product_name": "GalaxyTech S22",
+        "category": "smartphone",
+        "price": 18750000,
+        "currency": "Toman",
+        "stock": 23,
+        "description": "Premium smartphone with 108MP camera and 120Hz display",
+        "specifications": {
+          "processor": "Snapdragon 8 Gen 1",
+          "ram": "12GB",
+          "storage": "256GB",
+          "display": "6.8-inch Dynamic AMOLED",
+          "camera": "108MP main + 12MP ultrawide + 10MP telephoto"
+        }
+      },
+      {
+        "product_id": "TB-003",
+        "product_name": "PowerTab Pro",
+        "category": "tablet",
+        "price": 12900000,
+        "currency": "Toman",
+        "stock": 8,
+        "description": "Versatile tablet with stylus support and keyboard attachment",
+        "specifications": {
+          "processor": "MediaTek Dimensity 9000",
+          "ram": "8GB",
+          "storage": "128GB",
+          "display": "11-inch IPS LCD",
+          "battery": "10,000 mAh"
+        }
+      },
+      {
+        "product_id": "HD-004",
+        "product_name": "SonicWave Pro",
+        "category": "headphones",
+        "price": 4500000,
+        "currency": "Toman",
+        "stock": 30,
+        "description": "Noise-cancelling wireless headphones with 40-hour battery life",
+        "specifications": {
+          "type": "Over-ear",
+          "connectivity": "Bluetooth 5.2",
+          "battery": "40 hours",
+          "features": "Active Noise Cancellation, Transparency Mode"
+        }
+      },
+      {
+        "product_id": "SW-005",
+        "product_name": "FitTrack Ultra",
+        "category": "smartwatch",
+        "price": 7200000,
+        "currency": "Toman",
+        "stock": 17,
+        "description": "Advanced fitness tracker with ECG monitoring and GPS",
+        "specifications": {
+          "display": "1.4-inch AMOLED",
+          "sensors": "Heart rate, ECG, SpO2, Accelerometer",
+          "battery": "5 days",
+          "water_resistance": "50m"
+        }
+      },
+      {
+        "product_id": "TV-006",
+        "product_name": "CrystalView 65",
+        "category": "television",
+        "price": 42000000,
+        "currency": "Toman",
+        "stock": 5,
+        "description": "65-inch 8K QLED smart TV with HDR10+ support",
+        "specifications": {
+          "display": "65-inch QLED",
+          "resolution": "8K (7680x4320)",
+          "refresh_rate": "120Hz",
+          "smart_features": "Voice control, AI upscaling"
+        }
+      },
+      {
+        "product_id": "CM-007",
+        "product_name": "PowerBook Air",
+        "category": "laptop",
+        "price": 25000000,
+        "currency": "Toman",
+        "stock": 10,
+        "description": "Ultra-thin laptop with 18-hour battery life and fanless design",
+        "specifications": {
+          "processor": "Apple M2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "display": "13.6-inch Retina",
+          "battery": "18 hours"
+        }
+      },
+      {
+        "product_id": "SP-008",
+        "product_name": "iPhoneX Pro Max",
+        "category": "smartphone",
+        "price": 29900000,
+        "currency": "Toman",
+        "stock": 12,
+        "description": "Premium smartphone with advanced camera system and A16 chip",
+        "specifications": {
+          "processor": "A16 Bionic",
+          "ram": "8GB",
+          "storage": "512GB",
+          "display": "6.7-inch Super Retina XDR",
+          "camera": "48MP main + 12MP ultrawide + 12MP telephoto"
+        }
+      },
+      {
+        "product_id": "AC-009",
+        "product_name": "CoolBreeze 12000",
+        "category": "air_conditioner",
+        "price": 15800000,
+        "currency": "Toman",
+        "stock": 7,
+        "description": "Energy-efficient split AC with smart temperature control",
+        "specifications": {
+          "capacity": "12000 BTU",
+          "energy_rating": "5-star",
+          "features": "WiFi control, Sleep mode, Timer",
+          "coverage": "Up to 550 sq.ft"
+        }
+      },
+      {
+        "product_id": "KB-010",
+        "product_name": "MechMaster RGB",
+        "category": "keyboard",
+        "price": 3200000,
+        "currency": "Toman",
+        "stock": 25,
+        "description": "Mechanical gaming keyboard with customizable RGB lighting",
+        "specifications": {
+          "type": "Mechanical",
+          "switches": "Cherry MX Blue",
+          "layout": "Full-size with numpad",
+          "features": "RGB backlighting, Macro keys, Wrist rest"
+        }
+      }
+    ]
+  }
+  
